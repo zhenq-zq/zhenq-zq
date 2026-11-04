@@ -8,13 +8,13 @@ Practical tools, reusable AI skills, and guides for laboratory research.
 
 | Project | What it provides | Status |
 | --- | --- | --- |
-| [一个人带一群 AI · One-Person AI Team](https://github.com/zhenq-zq/one-person-ai-team) | AI 执行、人来判断：给国内研究生的通用 AI 工作流。herdr 多 AI 协作、规则、技能、检查、医药学课题模板、方法库、小工具和一步一页的教程。 A general AI workflow for researchers: multi-agent team in the terminal, rules, skills, checks, project templates and a step-by-step tutorial. | v2.0 |
+| [一人课题组 · One-Person Lab](https://github.com/zhenq-zq/one-person-lab) | 你当 PI 做判断，AI 当组员负责执行：给国内研究生的通用 AI 工作流。herdr 多 AI 协作、规则、技能、检查、医药学课题模板、方法库、小工具和一步一页的教程。 A general AI workflow for researchers: multi-agent team in the terminal, rules, skills, checks, project templates and a step-by-step tutorial. | v2.0 |
 
 ## Workflows & Templates · 工作台与模板
 
 | Project | What it provides | Status |
 | --- | --- | --- |
-| [Codex × Claude Workbench](https://github.com/zhenq-zq/codex-claude-workbench) | Setup scripts, project templates, and file-based handoffs for AI-assisted research. 科研版 v1，新用户请从 One-Person AI Team 开始。 | v1 (earlier) |
+| [Codex × Claude Workbench](https://github.com/zhenq-zq/codex-claude-workbench) | Setup scripts, project templates, and file-based handoffs for AI-assisted research. 科研版 v1，新用户请从一人课题组开始。 | v1 (earlier) |
 
 ## AI Skills · 可复用技能
 
@@ -34,4 +34,4 @@ Practical tools, reusable AI skills, and guides for laboratory research.
 | --- | --- |
 | [AI Research Workbench Guide](https://github.com/zhenq-zq/ai-research-workbench-share) | Chinese deployment instructions and a printable PDF (v1). |
 
-New here? Start with **One-Person AI Team**. Each repository documents its own installation, validation scope, and limitations.
+New here? Start with **一人课题组 · One-Person Lab**. Each repository documents its own installation, validation scope, and limitations.
